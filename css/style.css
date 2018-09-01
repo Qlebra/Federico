@@ -1,0 +1,22 @@
+*{
+    font-family: 'Questrial', sans-serif;
+}
+
+.encabezado {
+    background-color: #8793E8;
+    
+}
+
+.nav-item:hover {
+    color: rgb(252, 252, 252);  
+    box-shadow: 0 18px 20px 0 rgb(133, 145, 238), 0 10px 60px 0 rgb(133, 145, 238);
+    border-radius: 12%;    
+}
+
+.principal {
+    font-size: 1.3em;
+}
+
+input:focus {
+    background-color: #8793E8; 
+}
