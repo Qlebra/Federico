@@ -34,20 +34,28 @@
         <form class="formulario pt-5 pb-5">
             <div class="form-row">
             <div class="form-group col-md-6">
-                <label>Nombre y Apellido</label>
-                <input type="nombreYapellido" class="form-control" placeholder="Nombre y Apellido">
+                <label>Nombre</label>
+                <input type="nombreYapellido" class="form-control" placeholder="Nombre">
+            </div>
+            <div class="form-group col-md-6">
+                <label>Apellido</label>
+                <input type="nombreYapellido" class="form-control" placeholder="Apellido">
+            </div>
+            <div class="form-group col-md-6">
+                <label>Usuario</label>
+                <input type="email" class="form-control" placeholder="">
             </div>
             <div class="form-group col-md-6">
                 <label>Email</label>
-                <input type="email" class="form-control" placeholder="example@example.com">
+                <input type="email" class="form-control" placeholder="name@e-mail.com">
             </div>
             <div class="form-group col-md-6">
                     <label>Teléfono</label>
                     <input type="telefono" class="form-control" placeholder="">
                 </div>
                 <div class="form-group col-md-6">
-                    <label>Cel</label>
-                    <input type="cel" class="form-control" placeholder="">
+                    <label>Celular</label>
+                    <input type="cel" class="form-control" placeholder="+54 9 ...">
                 </div>
                 </div>
             <div class="form-row">   
@@ -56,7 +64,7 @@
                 <input type="direccion" class="form-control" placeholder="Av. San Martin 100">
             </div>    
             <div class="form-group col-md-4">
-                    <label>Piso</label>
+                    <label>Piso-Depto</label>
                     <input type="piso" class="form-control">
             </div>
             </div>
@@ -80,12 +88,7 @@
                 <label class="form-check-label">Quiero recibir novedades</label>
             </div>
             </div>
-                 <button type="submit" class="btn btn-primary">Enviar</button>
+                 <button class="boton-registro" type="submit" class="btn btn-primary">Enviar</button>
         </form>
-
-
-
-
-    
 </body>
 </html>

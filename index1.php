@@ -16,7 +16,7 @@
       <div class="col-12 col-md-12 col-lg-6">
         <img class="img align-left pt-4 pr-4" href="#" src="img/LOGO MKL-01.png" alt="logo">
       <div class="row menu d-flex">
-        <div class="col-12 col-md-11 offset-md-1 col-lg-12 offset-lg-6 ">
+        <div class="col-12 col-md-11 offset-md-1 col-lg-12 offset-lg-4 ">
           <nav class="nav button">
             <a class="nav-item nav-link d-flex p-3 ml-4 mr-4 text-white" href="registrate.html"><h5>Registrate</h5></a>
             <a class="nav-item nav-link d-flex p-3 ml-4 mr-4 text-white" href="iniciar_sesion.html"><h5>Iniciar sesion</h5></a>
